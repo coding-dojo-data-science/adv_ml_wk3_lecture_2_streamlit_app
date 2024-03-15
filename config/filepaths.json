@@ -1,0 +1,1 @@
+{"data": {"raw": {"full": "Data/loan_approval.csv"}, "ml": {"train": "Data/train.joblib", "test": "Data/test.joblib"}, "nlp": {"nlp_full": "Data/nlp/nlp_full.csv"}}, "models": {"logistic_regression": "models/logreg_pipe.joblib", "random_forest": "models/rf_pipe.joblib"}, "images": {"banner": "Images/money_tree.jpg"}}
