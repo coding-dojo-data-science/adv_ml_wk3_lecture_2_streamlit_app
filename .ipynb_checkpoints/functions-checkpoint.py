@@ -1,6 +1,6 @@
 import pandas as pd
 import matplotlib.pyplot as plt
-import seaborn as sns
+#import seaborn as sns
 from sklearn.metrics import classification_report, ConfusionMatrixDisplay
 
 ## explore_categorical (Copied from LP)
