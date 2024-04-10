@@ -5,7 +5,7 @@ import json
 st.set_page_config()
 
 # Use our file structure
-with open('config/filepaths.json', 'r') as f:
+with open('../config/filepaths.json', 'r') as f:
     FPATHS = json.load(f)
 
 st.image(FPATHS['images']['banner'])

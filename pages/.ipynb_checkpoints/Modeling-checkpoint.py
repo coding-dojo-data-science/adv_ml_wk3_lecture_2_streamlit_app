@@ -8,7 +8,7 @@ sys.path.append(os.path.abspath('../'))
 import functions as fn
 
 # Open the json filepaths
-with open('config/filepaths.json', 'r') as f:
+with open('../config/filepaths.json', 'r') as f:
     FPATHS = json.load(f)
 
 # Define a function for loading the data
